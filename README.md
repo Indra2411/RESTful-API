@@ -1,4 +1,4 @@
-#documentation for the Node.js and MongoDB-based blogging API project
+documentation for the Node.js and MongoDB-based blogging API project
 ##Table of Contents
 ###Project Structure
   Dependencies
